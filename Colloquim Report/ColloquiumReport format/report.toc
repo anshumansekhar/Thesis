@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Motivation}{5}%
+\contentsline {section}{\numberline {2}Introduction}{5}%
+\contentsline {subsection}{\numberline {2.1}What is Component Based Software Engineering}{5}%
+\contentsline {subsection}{\numberline {2.2}Stakeholders in Component based software Development}{7}%
+\contentsline {subsection}{\numberline {2.3}Component Identification Problem}{8}%
+\contentsline {subsection}{\numberline {2.4}Component Composition Problem}{9}%
+\contentsline {section}{\numberline {3}Methods used for solving Component Identification Problem}{10}%
+\contentsline {subsection}{\numberline {3.1}Clustering}{10}%
+\contentsline {subsubsection}{\numberline {3.1.1}High Cohesion and Low Coupling}{10}%
+\contentsline {subsubsection}{\numberline {3.1.2}Use Case}{10}%
+\contentsline {subsection}{\numberline {3.2}Artificial Neural Network}{11}%
+\contentsline {subsection}{\numberline {3.3}Genetic Algorithm}{11}%
+\contentsline {subsection}{\numberline {3.4}Particle Swarm Optimization}{12}%
+\contentsline {subsection}{\numberline {3.5}Graph Partitioning}{13}%
+\contentsline {subsection}{\numberline {3.6}CRUD Based}{13}%
+\contentsline {subsection}{\numberline {3.7}Formal concept analysis Based}{13}%
+\contentsline {section}{\numberline {4}Constructing Software Library using formal Methods}{14}%
+\contentsline {subsection}{\numberline {4.1}Formal Specification of Software components}{14}%
+\contentsline {subsection}{\numberline {4.2}Lower level hierarchy}{16}%
+\contentsline {subsection}{\numberline {4.3}Measuring Similarity}{18}%
+\contentsline {subsection}{\numberline {4.4}Higher Level Hierarchy using Clustering Algorithm}{18}%
+\contentsline {section}{\numberline {5}Conclusion \& Recommendation for Future Researches}{21}%
+\contentsline {subsection}{\numberline {5.1}Conclusion}{21}%
+\contentsline {subsection}{\numberline {5.2}Recommendation for future research}{22}%

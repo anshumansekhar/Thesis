@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: ref.bib
+Warning--I didn't find a database entry for "dyanamicComp"
+You've used 22 entries,
+            2118 wiz_defined-function locations,
+            657 strings with 8659 characters,
+and the built_in function-call counts, 8397 in all, are:
+= -- 822
+> -- 378
+< -- 10
++ -- 151
+- -- 124
+* -- 588
+:= -- 1340
+add.period$ -- 69
+call.type$ -- 22
+change.case$ -- 127
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 338
+empty$ -- 665
+format.name$ -- 124
+if$ -- 1821
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 22
+newline$ -- 113
+num.names$ -- 46
+pop$ -- 124
+preamble$ -- 1
+purify$ -- 105
+quote$ -- 0
+skip$ -- 265
+stack$ -- 0
+substring$ -- 547
+swap$ -- 102
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 0
+while$ -- 77
+width$ -- 24
+write$ -- 250
+(There was 1 warning)

@@ -1,0 +1,91 @@
+id,Component Name,Domain,Functionality,Properties of Component Using FM
+1,Train Number,Railway Reservation,Display unique id,"1. After a request to write the train number, the response will be either go to fill the date or go to the correct train number option, 2. There is a possibility for writing a correct train number from Start state, followed by   select the desired date option. This sequence of actions may be repeated infinitely "
+2,DOB,Railway Reservation,Calculate age through calendar,"1. After a request to write the passenger name, the response will be either go to select the date using calender for calculating age or response from correct option, 2. There is a possibility for request to select the calender from Start state, followed by get the age of corresponding person, finally followed by send the response to select the date to the user. This sequence of actions may be repeated infinitely."
+3,Calculator,Railway Reservation,Calculate button,"1. After a request to enter the number, the response will be either go to fill the correct format of number or go to the select the appropriate function option. 2. There is a possibility for enter the correct number from Start state, followed by choose the select function of calculation, finally followed by show the final result. This sequence of actions may be repeated infinitely "
+4,Login,Educational System,Login using username and password with mobile number,
+5,City Dropdown,Hotel Booking,Dropdown displaying all cities ,
+6,Class,Railway Reservation,Display different class ,"1. After a request to enter class of train, the response will be either go to select the passenger or go to the correct class option 2. There is a possibility for enter the correct class of train from Start state, followed by   select the pasenger detail. This sequence of actions may be repeated infinitely "
+7,Calendar,Flight Booking,Calendar to pick dates,
+8,Book Submission,Railway Reservation,Display booking confirmation,"1. After a request to book the ticket, the response will be either sends the confermation of ticket or response for failed the booking, 2. There is a possibility for request to book ticket from Start state, followed by get the book ticket detail to user. This sequence of actions may be repeated infinitely  "
+9,City Dropdown,Flight Booking,Dropdown displaying all cities with state name,
+10,Fare Calculator,Railway Reservation,Fare calculation according to distance and train class ,"1. Whenever a request to measure a distance to the destination, then eventually the response will be select the class of train, 2. There is a possibility for calculating the distancer from Start state, followed by select the class of that train. This sequence of actions may be repeated infinitely. "
+11,Payment,Railway Reservation,"Payment page displaying options like credit card, debit card and also using cash","1. Whenever a request to select payment option for final reservation, then eventually the response will be select the credit card option, enter the name of person, validity date of card and enter the amount to that particular train., 2. Whenever a request to select payment option for final reservation, then eventually the response will be select the debit card option, enter the name of person, validity date of card and enter the amount to that particular train., 3. Whenever a request to select payment option for final reservation, then eventually the response will be select the cash option and enter the amount to that particular train., 4. There is a possibility for calculating the payment from Start state, followed by enter name of person, followed by enter valid date of card, followed by enter the amount, finally followed by go to logout page . This sequence of actions may be repeated infinitely."
+12,Payment,Railway Reservation,"Payment page displaying options like credit card, debit card, UPI","1. Whenever a request to select payment option for final reservation, then eventually the response will be select the credit card option, enter the name of person, validity date of card and enter the amount to that particular train., 2. Whenever a request to select payment option for final reservation, then eventually the response will be select the debit card option, enter the name of person, validity date of card and enter the amount to that particular train., 3. Whenever a request to select payment option for final reservation, then eventually the response will be select the UPI, enter the password and enter the amount to that particular train., 4. There is a possibility for calculating the payment from Start state, followed by enter name of person, followed by enter valid date of card, followed by enter the amount, finally followed by go to logout page . This sequence of actions may be repeated infinitely."
+13,Payment,Railway Reservation,Payment page displaying options like credit card and debit card only,"1. Whenever a request to select payment option for final reservation, then eventually the response will be select the credit card option, enter the name of person, validity date of card and enter the amount to that particular train., 2. Whenever a request to select payment option for final reservation, then eventually the response will be select the debit card option, enter the name of person, validity date of card and enter the amount to that particular train., 3. There is a possibility for calculating the payment from Start state, followed by enter name of person, followed by enter valid date of card, followed by enter the amount, finally followed by go to logout page . This sequence of actions may be repeated infinitely."
+14,Logout Button,Educational System,Logout button,
+15,Logout Button,Railway Reservation,Logout button,"1. After final booking of reservation from Idle State, eventually there will be a response to logout the account or goto some informations are missing., 2.There is a possibility for filling all information of user from Start state, finally followed by select the logout option. This sequence of actions may be repeated infinitely "
+16,Date Picker,Railway Reservation,Display dates with dd/mm/yy format,"1. After a request to write the correct date name, eventually the response will be either for the correct date or go to the select date format option, 2. There is a possibility for selecting tha date format from Start state, followed by select the correct date option, finally followed by select the number of passenger option. This sequence of actions may be repeated infinitely"
+17,Date Picker,Railway Reservation,Display calendar to pick dates,"1. After a request to write the correct date name, eventually the response will be either for the correct date or go to the select the calender option, 2. There is a possibility for selecting tha calender from Start state, followed by select the correct date option, finally followed by select the number of passenger option. This sequence of actions may be repeated infinitely"
+18,Tax Calculator,Finance System,Tax calculation,
+19,Brand Name,E-commerce System,Display brand name in alphabetical order,
+20,Tax Calculator,Finance System,Tax calculation,
+21,Product Categorisation,E-commerce System,"Dropdown displaying hierarchical grouping of product categories, moving from bigger groups to many smaller ones",
+22,City Name,Railway Reservation,Dropdown displaying all cities name with state,"1. Whenever a request to select the city name, then eventually the response will be select the correct state name and select the correct city name for that particular train, 2. There is a possibility for selecting the correct state name from Start state, followed by select the city name of that train, finally followed by goto select the payment page . This sequence of actions may be repeated infinitely. "
+23,Shipping Charge,E-commerce System,"Charge calculation according to product quality, quantity and area of distance",
+24,Fare Calculator,Hotel Booking,"Fare calculation according to type of room , number of persons",
+25,City Name,Railway Reservation,Dropdown displaying all cities ,"1. After a request to write the correct city name, eventually the response will be either for the correct city name or go to the other option, 2. There is a possibility for writing a correct city name from Start state, finally followed by select the booking status. This sequence of actions may be repeated infinitely"
+26,Fare Calculator,Flight Booking,"Fare calculation according to distance, class and number of stops selected",
+27,Shipping Charge,E-commerce System,"Charge calculation according to product weight, dimension, deliver area and destination country",
+28,Payment,Hotel Booking,"payment page displaying options like credit card,debit card,upi",
+29,City Name,Flight Booking,Display city nanes with distance from source to destination,
+30,Payment Handler,Hotel Booking,Handle payment from user ,
+31,Personal Information,E-commerce System,"Display personal information with name, DOB, gender, phone no., password and email id",
+32,Address Book,E-commerce System,Display the address with phone number,
+33,Login,E-commerce System,Login using username and password,
+34,Payment,Flight Booking,"Payment page displaying options like credit card, debit card, UPI",
+35,Payment Handler,Flight Booking,Handle payment from user ,
+36,Payment Display,E-commerce System,Display list of item with amount ,
+37,Hotels Display,Hotel Booking,Display list of hotels according to city,
+38,Train Display,Railway Reservation,Display list of trains according to origin and destination city,"1. Whenever a request to show the train list to the selective destination, then eventually the response will be select the confirm origin city and select the confirm destination city for that particular train, 2. There is a possibility for confirm origin city for selecting the particular train from Start state, followed by select the confirm destination city of that train, finally followed by goto calculate total fare for journey . This sequence of actions may be repeated infinitely. "
+39,Hotels Display,Hotel Booking,Display list of hotels according to city,
+40,Login,Hotel Booking,Login using username and password with mobile number,
+41,Login,Library Management,Login using username and password with mobile number,
+42,Books Display,Library Management,"Display list of books according to author,genre",
+43,Books Display,Library Management,"Display list of books according to author,genre",
+44,Book Selector,Library Management,Dropdown displaying author names and genre of all the books available,
+45,No. of Person,Railway Reservation,Display number of persons,"1. Whenever a request to select the pasenger nunber, then eventually the response will be select the adult person and select the children for that particular train, 2. There is a possibility for confirm number of adult person for selecting the particular train from Start state, followed by select the confirm number of children for that train, finally followed by goto select the city name for that train . This sequence of actions may be repeated infinitely. "
+46,Login,Railway Reservation,Login using username and password with captcha protection,"1. Whenever a request to write the correct username, eventually the response will be go to fill the correct password and enter the correct captcha., 2. There is a possibility for writing a correct username from Start state, followed by write the correct password, followed by write the correct captcha, finally followed by select the desired application domain. This sequence of actions may be repeated infinitely"
+47,List Of Item,E-commerce System,Dropdown Displaying list of items with brand name,
+48,Book Selector,Library Management,Dropdown displaying author names and genre of all the books available,
+49,Login,Railway Reservation,Login using username and password ,"1. After a request to write the correct username, the response will be either go to fill the correct password or go to the forget password option, 2. There is a possibility for writing a correct username from Start state, followed by write the correct password, finally followed by select the desired application domain. This sequence of actions may be repeated infinitely"
+50,Train Selector,Travel Agent Services,Dropdown displaying train class and quota,
+51,Train Selector,Travel Agent Services,Dropdown displaying train class and quota,
+52,Room Selector,Hotel Booking,Dropdown displaying room type and number of persons,
+53,Room Selector,Hotel Booking,Dropdown displaying room type and number of persons,
+54,Train display,Railway Reservation,Display list of trains availability according to date and class,"1. Whenever a request to show the train list to the selective destination, then eventually the response will be select the confirm date of train and confirm class to that particular train, 2. There is a possibility for confirm date for selecting the particular train from Idle state, followed by select the confirm class of that train, finally followed by goto calculate total fare for journey . This sequence of actions may be repeated infinitely. "
+55,Sign in,Travel Agent Services,Login using user name and password,
+56,Calculate Button,Flight Booking,Calculate fare,
+57,Add Book,Library Management,"Text Box for Book Name, Author and topic",
+58,Add Book,Library Management,"Text Box for Book Name, Author and year",
+59,Flight Selector,Flight Booking,Dropdown displaying class and number of stops,
+60,Flight Selector,Flight Booking,Dropdown displaying class and number of stops,
+61,Flights Display,Flight Booking,Display list of flights according to class and number of stops,
+62,Flights Display,Flight Booking,Display list of flights according to class and number of stops,
+63,Fare Calculator,Hotel Booking,"Fare calculation according to type of room , number of persons",
+64,Fare Calculator,Travel Agent Services,"Fare calculation according to distance, and number of person",
+65,Fare Calculator,Flight Booking,"Fare calculation according to distance ,class and number of stops selected",
+66,Logout Button,Hotel Booking,Logout button,
+67,Logout Button,E-commerce System,Logout button,
+68,Login,Hotel Booking,Login using username and password ,
+69,Logout Button,Library Management,Logout button,
+70,Personal Information,Travel Agent Services,"Display personal information with name, phone no., password and email id",
+71,Login,Flight Booking,Login using username and password with captcha protection,
+72,Sign in,Online Video on Demand,Login using username and password ,
+73,Search Video,Online Video on Demand,Enter the Choice of User,
+74,Train Display,Railway Reservation,Display trains availability according to class and quota,"1. Whenever a request to show the train list to the selective destination, then eventually the response will be select the confirm class of train and confirm valid quota to that particular train, 2. There is a possibility for confirm class for selecting the particular train from Start state, followed by select the confirm quota of that train, finally followed by goto calculate total fare for journey . This sequence of actions may be repeated infinitely. "
+75,Hotels Display,Travel Agent Services,Display all the hotels name with contry,
+76,Book Submission,Railway Reservation,Display booking confirmation after payment and response to email,"1. After a request to book the ticket from Start state, eventually there will be a response from B_button state, 2.There is a possibility for request to book ticket from Start state, followed by get the book id to fill all information (payment), finally followed by send the ticket to the email id of user. This sequence of actions may be repeated infinitely "
+77,Logout Button,Flight Booking,Logout button,
+78,Vehicle Display,Travel Agent Services,Display All the vehicle with their charge,
+79,Payment Display,Travel Agent Services,"Payment page displaying options like credit card, UPI and PayPAL account",
+80,Sign Out,Travel Agent Services,Sign out the account,
+81,List Of Video,Online Video on Demand,Disply all the video according to query of user,
+82,Sign Out,Online Video on Demand,Sign out the account,
+83,No. of Person,Travel Agent Services,Display number of persons,
+84,Payment,Online Video on Demand,"Payment page displaying options like credit card, debit card and also using cash",
+85,Payment,Online Video on Demand,"Payment page displaying options like credit card, debit card only",
+86,Payment Display,Library Management,"Payment page displaying options like credit card, debit card and also using cash",
+87,Flight Display,Travel Agent Services,Disply all the flight details with amount,
+88,Fare Calculator,Railway Reservation,"Fare calculation according to distance, train class and number of persons","1. Whenever a request to measure a distance to the destination, then eventually the response will be select the class of train and count the number of person to that particular train, 2. There is a possibility for calculating the distance from Start state, followed by select the class of that train, followed by count the number of person, finally followed by goto select the payment page . This sequence of actions may be repeated infinitely. "
+89,Play Video,Online Video on Demand,Play the choose video,
+90,Personal Information,Online Video on Demand,"Display personal information with name, phone no., password and email id",

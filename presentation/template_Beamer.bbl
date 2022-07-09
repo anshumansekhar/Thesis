@@ -1,0 +1,154 @@
+\begin{thebibliography}{10}
+
+\bibitem{9497978}
+Fatihah Mohd, Suryani Ismail, Masita Masila~Abdul Jalil, Fatin Izatul
+  Nadia~Mohd Zulkarnain, and Norshuhani Zamin.
+\newblock A guidelines for controlled experimental design to evaluate the
+  metrics of software component reusability.
+\newblock In {\em 2021 Fifth International Conference on Information Retrieval
+  and Knowledge Management (CAMP)}, pages 85--90, 2021.
+
+\bibitem{survey}
+Shabnam Gholamshahi and Seyed Mohammad~Hossein Hasheminejad.
+\newblock Software component identification and selection: A research review.
+\newblock {\em Software: Practice and Experience}, 49, 10 2018.
+
+\bibitem{componentDef}
+Greg Baster, Prabhudev Konana, and Judy~E. Scott.
+\newblock Business components: A case study of bankers trust australia limited.
+\newblock {\em Commun. ACM}, 44(5):92–98, May 2001.
+
+\bibitem{2}
+Dominik Birkmeier and Sven Overhage.
+\newblock On component identification approaches - classification, state of the
+  art, and comparison.
+\newblock In {\em Component-Based Software Engineering, 12th International
+  Symposium, {CBSE} 2009, East Stroudsburg, PA, USA, June 24-26, 2009,
+  Proceedings}, volume 5582 of {\em Lecture Notes in Computer Science}, pages
+  1--18. Springer, 2009.
+
+\bibitem{softwareComposition}
+Jiafu Tang, Li~feng Mu, C.K. Kwong, and X.G. Luo.
+\newblock An optimization model for software component selection under multiple
+  applications development.
+\newblock {\em European Journal of Operational Research}, 212:301--311, 07
+  2011.
+
+\bibitem{dynamicComp}
+Iria Estevez-Ayres, Luis Almeida, Marisol Garcia-Valls, and Pablo Basanta-Val.
+\newblock An architecture to support dynamic service composition in distributed
+  real-time systems.
+\newblock In {\em 10th IEEE International Symposium on Object and
+  Component-Oriented Real-Time Distributed Computing (ISORC'07)}, pages
+  249--256, 2007.
+
+\bibitem{graphPartion}
+Antonia Albani, Sven Overhage, and Dominik Birkmeier.
+\newblock Towards a systematic method for identifying business components.
+\newblock In {\em Component-Based Software Engineering}, pages 262--277,
+  Berlin, Heidelberg, 2008. Springer Berlin Heidelberg.
+
+\bibitem{neural}
+Mohammad Ahmadzadeh, Gholamreza Shahmohammadi, and Mohammad Shayesteh.
+\newblock Identification of software systems components using a self-organizing
+  map competitive artificial neural network based on cohesion and coupling.
+\newblock {\em ANDRIAS Journal}, 40:721--6513, 02 2016.
+
+\bibitem{genetic}
+Seyed Mohammad~Hossein Hasheminejad and Saeed Jalili.
+\newblock Sci-ga: Software component identification using genetic algorithm.
+\newblock {\em The Journal of Object Technology}, 12:3:1, 01 2013.
+
+\bibitem{CRUD}
+R.~Ganesan and S.~Sengupta.
+\newblock O2bc: a technique for the design of component-based applications.
+\newblock In {\em Proceedings 39th International Conference and Exhibition on
+  Technology of Object-Oriented Languages and Systems. TOOLS 39}, pages 46--55,
+  2001.
+
+\bibitem{FCA}
+Haitham~S. Hamza.
+\newblock A framework for identifying reusable software components using formal
+  concept analysis.
+\newblock In {\em 2009 Sixth International Conference on Information
+  Technology: New Generations}, pages 813--818, 2009.
+
+\bibitem{ClusteringClass}
+Maen Hammad and Rua’a~Hasan Banat.
+\newblock Automatic class decomposition using clustering.
+\newblock {\em 2021 IEEE 18th International Conference on Software Architecture
+  Companion (ICSA-C)}, pages 78--81, 2021.
+
+\bibitem{highCohesionLowCoupling}
+Jong~Kook Lee, Seung~Jae Jung, Soo~Dong Kim, Woo~Hyun Jang, and Dong~Han Ham.
+\newblock Component identification method with coupling and cohesion.
+\newblock In {\em Proceedings Eighth Asia-Pacific Software Engineering
+  Conference}, pages 79--86, 2001.
+
+\bibitem{useCase}
+Soo~Dong Kim and Soo~Ho Chang.
+\newblock A systematic method to identify software components.
+\newblock In {\em 11th Asia-Pacific Software Engineering Conference}, pages
+  538--545, 2004.
+
+\bibitem{fuzzy}
+Zhengong Cai, Xiaohu Yang, Xinyu Wang, and Aleksander Kavs.
+\newblock Afuzzy formal concept analysis based approach for business component
+  identification.
+\newblock {\em Journal of Zhejiang University - Science C}, 12:707--720, 09
+  2011.
+
+\bibitem{pso}
+Seyed Mohammad~Hossein Hasheminejad and Shabnam Gholamshahi.
+\newblock Pci-pso: Preference-based component identification using particle
+  swarm optimization.
+\newblock {\em Journal of Intelligent Systems}, 28(5):733--748, 2019.
+
+\bibitem{pso1}
+Hamid Masoud, Saeed Jalili, and Seyed~Mohammad Hasheminejad.
+\newblock Dynamic clustering using combinatorial particle swarm optimization.
+\newblock {\em Applied Intelligence}, 38(3):289–314, April 2013.
+
+\bibitem{KMeans}
+Sunil Kumar, Rajesh Bhatia, and Rajesh Kumar.
+\newblock K-means clustering of use-cases using mdl.
+\newblock {\em Communications in Computer and Information Science}, 270:57--67,
+  01 2012.
+
+\bibitem{agglomerative}
+Jian Cui and Heung Chae.
+\newblock Applying agglomerative hierarchical clustering algorithms to
+  component identification for legacy systems.
+\newblock {\em Information \& Software Technology}, 53:601--614, 06 2011.
+
+\bibitem{clusteringAna}
+Seyed Mohammad~Hossein Hasheminejad and Saeed Jalili.
+\newblock Ccic: Clustering analysis classes to identify software components.
+\newblock {\em Information and Software Technology}, 57, 06 2014.
+
+\bibitem{evolution}
+Seyed Mohammad~Hossein Hasheminejad and Saeed Jalili.
+\newblock An evolutionary approach to identify logical components.
+\newblock {\em Journal of Systems and Software}, 96, 10 2014.
+
+\bibitem{FCA1}
+Gabriela Arévalo, Nicolas Desnos, Marianne Huchard, Christelle Urtado, and
+  Sylvain Vauttier.
+\newblock Formal concept analysis-based service classification to dynamically
+  build efficient software component directories.
+\newblock {\em International Journal of General Systems - INT J GEN SYSTEM},
+  38:427--453, 05 2009.
+
+\bibitem{formal}
+Jun~Jang Jeng and Betty H.~C. Cheng.
+\newblock Using formal methods to construct a software component library.
+\newblock In Ian Sommerville and Manfred Paul, editors, {\em Software
+  Engineering --- ESEC '93}, pages 397--417, Berlin, Heidelberg, 1993. Springer
+  Berlin Heidelberg.
+
+\bibitem{formalVerification}
+Mehdi Hariati.
+\newblock Formal verification issues for component-based development.
+\newblock {\em Informatica}, 44, 12 2020.
+
+\end{thebibliography}

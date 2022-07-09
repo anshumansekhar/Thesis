@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form id="regicomp">
+<table border="1">
+<thead>
+                    <tr>
+                        <th colspan="2">Login</th>
+                    </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><label for="namefield">Name</label></td>
+<td><input type="text" name="namefield" placeholder="Enter your name" required/></td></tr>
+<tr>
+<td><label for="pwdfield">Password</label></td>
+<td><input type="password" name="pwdfield" placeholder="Enter password" required/></td></tr>
+<tr>
+<td><button type="submit" name="submit">Submit</button></td>
+<td><a href="#">Forgot Password</a></td></tr>
+<tr>
+    <td><div class="g-recaptcha" data-sitekey="Your site key goes here"></div>
+    </td>
+</tr>
+</tbody>
+</table>
+</form>
+
+</body>
+</html>

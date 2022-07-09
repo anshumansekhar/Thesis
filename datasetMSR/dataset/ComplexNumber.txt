@@ -1,0 +1,24 @@
+https://github.com/Tywholland/CalPolySchoolWork/blob/master/CPE102/labquiz1/ComplexNumber.java   1
+https://github.com/Tywholland/CalPolySchoolWork/blob/master/Computer Science/Vogon .zip Backups/cpe102/labquiz1/ComplexNumber.java   1
+https://github.com/codejedi/repo1230/blob/master/adaptivedr/src/com/adr/structures/ComplexNumber.java   1
+https://github.com/badiale/Simple-Image-Worker/blob/master/SimpleImageWorker/src/org/siw/util/ComplexNumber.java   1
+https://github.com/Tobsic/Uni/blob/master/Uni/ComplexNumber/ComplexNumber.java   1
+https://github.com/Wikiemol/Mandelbrot/blob/master/ComplexNumber.java   1
+https://github.com/dreambrother/math-experiments/blob/master/mandelbrot-set/src/main/java/com/blogspot/nikcode/complex/ComplexNumber.java   1
+https://github.com/tajoa/Kryptool/blob/master/src/core/complex/ComplexNumber.java   0
+https://github.com/webminz/ecc/blob/master/Krypto/src/main/complex/ComplexNumber.java   0
+https://github.com/rich90usa/COP3504-Fall-2011/blob/master/LabWeek6/ComplexNumber.java   0
+https://github.com/jose-acevedoflores/git-workspace/blob/master/Phasor/src/complexNumber/ComplexNumber.java   1
+https://github.com/sfreihofer/fractals/blob/master/src/main/java/ch/sfdr/fractals/math/ComplexNumber.java   1
+https://github.com/jahamed/Class-Projects/blob/master/CMSC131 - Java Introduction/Fall07Proj4/ComplexNumberTest.java   0
+https://github.com/WayneSan/Pyrolite/blob/master/java/src/net/razorvine/pickle/objects/ComplexNumber.java   1
+https://github.com/dr-itz/fractals/blob/master/src/main/java/ch/sfdr/fractals/math/ComplexNumber.java   1
+https://github.com/pyloor/picklingtools/blob/master/Java/com/picklingtools/pickle/objects/ComplexNumber.java   1
+https://github.com/sichvoge/jAIL/blob/master/src/de/jail/schemas/ComplexNumber.java   1
+https://github.com/barrybecker4/bb4-ui/blob/master/source/com/barrybecker4/ui/components/ComplexNumberInput.java   0
+https://github.com/Tamanec/javaCourse/blob/master/ComplexNumbers/src/com/epam/edu/ComplexNumber.java   1
+https://github.com/CRASH-and-BURN/FractalGenerator/blob/master/FractalGenerator/src/com/Marco/Fractal/ComplexNumber.java   1
+https://github.com/smoussa/fractal/blob/master/src/FractalGUI.java   0
+https://github.com/danysantiago/My-Java-Class-Projects/blob/master/P1 - Mamdlebrot Set/src/TestComplexNumber.java   0
+https://github.com/jahamed/Class-Projects/blob/master/CMSC131 - Java Introduction/Fall07Proj4/ComplexNumberTest.java   0
+https://github.com/hoijui/dANN/blob/master/projects/java_dann/src/com/syncleus/dann/math/ComplexNumber.java   0

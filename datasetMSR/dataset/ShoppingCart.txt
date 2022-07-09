@@ -1,0 +1,14 @@
+https://github.com/integrallis/easyb-bank-demo/blob/master/src/main/java/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/class_mutants/JSI_1/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/void_removeItem(Product)/COD_1/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/src/ShoppingCart.java   1
+https://github.com/hiperion/JUnitTestingTips/blob/master/src/com/example/product/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/original/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/AOIS_1/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/AOIS_2/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/AOIU_1/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/ASRS_1/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/ASRS_2/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/ASRS_3/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/result/ShoppingCart/traditional_mutants/double_getBalance()/ASRS_4/ShoppingCart.java   1
+https://github.com/miloszpp/Software-Testing/blob/master/test/ShoppingCartTest.java   0

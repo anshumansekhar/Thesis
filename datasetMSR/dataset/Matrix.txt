@@ -1,0 +1,30 @@
+https://github.com/danathughes/jLA/blob/master/jLA/core/Matrix.java   1
+https://github.com/avitase/numerics/blob/master/src/main/java/de/nismeinert/numerics/hw1/Matrix.java   1
+https://github.com/Equinox-/Equinox-Java-Tutorials/blob/master/3D Graphics/3D Math/src/com/pi/math3d/Matrix.java   1
+https://github.com/Equinox-/ProceduralFoliage/blob/master/src/com/pi/mathz/Matrix.java   1
+https://github.com/raharrison/MathEngine/blob/master/src/uk/co/ryanharrison/mathengine/linearalgebra/Matrix.java   1
+https://github.com/PhilippStussak/KryptoProjekt/blob/master/Implementation/KryptoProjekt/src/kryptoprojekt/model/Matrix.java   1
+https://github.com/danysantiago/My-Algorithms-Class-Code/blob/master/Algorithms/src/Matrix.java   1
+https://github.com/Equinox-/XWingFlyer/blob/master/CollisionCommon/src/com/pi/collision/Matrix.java   1
+https://github.com/Equinox-/XWingFlyer/blob/master/CollisionCommon/src/com/pi/collision/math/Matrix.java   1
+https://github.com/Jamesjue/dataAnalysis/blob/master/encog-core-3.1.0-release/encog-core-3.1.0/src/main/java/org/encog/mathutil/matrices/Matrix.java   0
+https://github.com/StuartGordonReid/timeseriesmodeller/blob/master/Encog Source/src/main/java/org/encog/mathutil/matrices/Matrix.java   0
+https://github.com/arjuncomar/VAFusion2/blob/master/encog-java-core-2.5.3/src/org/encog/mathutil/matrices/Matrix.java   0
+https://github.com/encog/encog-java-core/blob/master/src/main/java/org/encog/mathutil/matrices/Matrix.java   0
+https://github.com/leadtune/encog-java/blob/master/encog-core/src/org/encog/mathutil/matrices/Matrix.java   0
+https://github.com/papauschek/corvid-devrob/blob/master/src/org/encog/mathutil/matrices/Matrix.java   0
+https://github.com/raharrison/MathEngine/blob/master/src/uk/co/ryanharrison/mathengine/parser/nodes/Matrix.java   0
+https://github.com/dekarrin/Dekarrin-Framework/blob/master/src/com/dekarrin/math/Matrix.java   1
+https://github.com/demonixis/AtlantisEngine.java/blob/master/Framework/src/atlantis/framework/Matrix.java   0
+https://github.com/RobertoCesar/tvmyweka/blob/master/Tvmyweka/src/weka/core/Matrix.java   0
+https://github.com/Team3167/JudgeCode2012/blob/master/src/judge/math/Matrix.java   0
+https://github.com/Zhibin-Zhang/Weka-for-Android/blob/master/src/weka/core/Matrix.java   0
+https://github.com/Zwackelmann/Weka/blob/master/src/main/java/weka/core/Matrix.java   0
+https://github.com/a3090103838/weka-src/blob/master/src/main/java/weka/core/Matrix.java   0
+https://github.com/arielwa/SecuredMonitoring/blob/master/Classification/Workspace/WekaAndroid/src/weka/core/Matrix.java   0
+https://github.com/baron/weka/blob/master/weka/src/main/java/weka/core/Matrix.java   0
+https://github.com/beandipper/weka/blob/master/src/main/java/weka/core/Matrix.java   0
+https://github.com/caglar/CollectiveLLearn/blob/master/weka/core/Matrix.java   0
+https://github.com/caglar/jDenetX/blob/master/src/weka/core/Matrix.java   0
+https://github.com/changedi/weka/blob/master/src/main/java/weka/core/Matrix.java   0
+https://github.com/duyvk/weka-spmf/blob/master/src/main/java/weka/core/Matrix.java   0

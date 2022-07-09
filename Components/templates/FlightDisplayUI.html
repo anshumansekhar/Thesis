@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <table border="1">
+            <thead>
+                <th>
+                    Airline
+                </th>
+                <th>
+                    Code
+                </th>
+                <th>
+                    Departure
+                </th>
+                <th>
+                    Arrival
+                </th>
+                <th>
+                    No. of Stops
+                </th>
+                <th>
+                    Duration
+                </th>
+                <th>
+                    Price
+                </th>
+            </thead>
+            <tbody>
+                {% for airline in airlines %}
+                <tr>
+                    <td>{{airline.name}}</td>
+                    <td>{{airline.code}}</td>
+                    <td>{{airline.departure}}</td>
+                    <td>{{airline.arrival}}</td>
+                    <td>{{airline.numOfStop}}</td>
+                    <td>{{airline.duration}}</td>
+                    <td>{{airline.price}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </body>
+</html>

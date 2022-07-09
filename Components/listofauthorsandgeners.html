@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title></title>
+        <script>
+            function populateGenres(genres)
+            {
+                var genreDropdown="<select>";
+                genreDropdown+="<option value=''>Select a genre</option";
+                for(genre in genres)
+                {
+                    genreDropdown+="<option value="+genre+">"+genre+"</option";
+                }
+                genreDropdown+="</select>"
+                document.body.innerHTML+=genreDropdown;
+            }
+            function populateAuthors(authors)
+            {
+                var authorDropdown="<select>";
+                authorDropdown+="<option value=''>Select an author</option";
+                for(author in authors)
+                {
+                    authorDropdown+="<option value="+author+">"+author+"</option";
+                }
+                authorDropdown+="</select>"
+                document.body.innerHTML+=authorDropdown;
+            }
+            function loadDropdowns(authors,genres)
+            {
+                populateAuthors(authors);
+                populateGenres(genres);
+            }
+        </script>
+    </head>
+    <body onload="loadDropdowns(new Array(),new Array())">
+    </body>
+</html>

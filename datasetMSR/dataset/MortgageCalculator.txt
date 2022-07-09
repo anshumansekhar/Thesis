@@ -1,0 +1,8 @@
+https://github.com/dcgibbons/learning/blob/master/school/pos407/MortgageCalculator/src/Mortgage.java   1
+https://github.com/dcgibbons/learning/blob/master/school/pos407/wk3/src/Mortgage.java   1
+https://github.com/dcgibbons/learning/blob/master/school/pos407/wk4/src/Mortgage.java   1
+https://github.com/dcgibbons/learning/blob/master/school/pos407/wk5/src/Mortgage.java   1
+https://github.com/dcgibbons/learning/blob/master/school/pos407/wk5/tmp/Mortgage.java   1
+https://github.com/dcgibbons/learning/blob/master/school/pos407/wk2/src/Mortgage.java   1
+https://github.com/dcgibbons/learning/blob/master/school/pos406/wk5/POS406_W5_DCG.java   1
+https://github.com/yangwm/JavaLearn/blob/master/commons.src/betwixt/mortgage/Mortgage.java   0

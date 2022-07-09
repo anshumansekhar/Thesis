@@ -1,0 +1,91 @@
+id,Component Name,Language,Type,Domain,Functionality
+1,Train Number,Java,JSP,Railway Reservation,Display unique id
+2,DOB,Java,JSP,Railway Reservation,Calculate age through calendar
+3,Calculator,Java,JSP,Railway Reservation,Calculate button
+4,Login,Python,React,Educational System,Login using username and password with mobile number
+5,City Dropdown,Java,JSP,Hotel Booking,Dropdown displaying all cities 
+6,Class,Java,JSP,Railway Reservation,Display different class 
+7,Calendar,JavaScript,React,Flight Booking,Calendar to pick dates
+8,Book Submission,Java,JSP,Railway Reservation,Display booking confirmation
+9,City Dropdown,JavaScript,React,Flight Booking,Dropdown displaying all cities with state name
+10,Fare Calculator,Java,JSP,Railway Reservation,Fare calculation according to distance and train class 
+11,Payment,Java,JSP,Railway Reservation,"Payment page displaying options like credit card, debit card and also using cash"
+12,Payment,Java,JSP,Railway Reservation,"Payment page displaying options like credit card, debit card, UPI"
+13,Payment,Java,JSP,Railway Reservation,Payment page displaying options like credit card and debit card only
+14,Logout Button,Java,JSP,Educational System,Logout button
+15,Logout Button,JavaScript,React,Railway Reservation,Logout button
+16,Date Picker,Java,JSP,Railway Reservation,Display dates with dd/mm/yy format
+17,Date Picker,Java,JSP,Railway Reservation,Display calendar to pick dates
+18,Tax Calculator,Java,Java,Finance System,Tax calculation
+19,Brand Name,Python,Flask,E-commerce System,Display brand name in alphabetical order
+20,Tax Calculator,JavaScript,JavaScript,Finance System,Tax calculation
+21,Product Categorisation,JavaScript,React,E-commerce System,"Dropdown displaying hierarchical grouping of product categories, moving from bigger groups to many smaller ones"
+22,City Name,Java,JSP,Railway Reservation,Dropdown displaying all cities name with state
+23,Shipping Charge,Python,React,E-commerce System,"Charge calculation according to product quality, quantity and area of distance"
+24,Fare Calculator,Java,Java,Hotel Booking,"Fare calculation according to type of room , number of persons"
+25,City Name,Java,JSP,Railway Reservation,Dropdown displaying all cities 
+26,Fare Calculator,Java,Java,Flight Booking,"Fare calculation according to distance, class and number of stops selected"
+27,Shipping Charge,JavaScript,React,E-commerce System,"Charge calculation according to product weight, dimension, deliver area and destination country"
+28,Payment,JavaScript,jQuery,Hotel Booking,"payment page displaying options like credit card,debit card,upi"
+29,City Name,Java,JSP,Flight Booking,Display city nanes with distance from source to destination
+30,Payment Handler,Java,JavaScript,Hotel Booking,Handle payment from user 
+31,Personal Information,JavaScript,jQuery,E-commerce System,"Display personal information with name, DOB, gender, phone no., password and email id"
+32,Address Book,JavaScript,jQuery,E-commerce System,Display the address with phone number
+33,Login,JavaScript,React,E-commerce System,Login using username and password
+34,Payment,JavaScript,React,Flight Booking,"Payment page displaying options like credit card, debit card, UPI"
+35,Payment Handler,Java,Java,Flight Booking,Handle payment from user 
+36,Payment Display,Java,JSP,E-commerce System,Display list of item with amount 
+37,Hotels Display,Java,JSP,Hotel Booking,Display list of hotels according to city
+38,Train Display,JavaScript,React,Railway Reservation,Display list of trains according to origin and destination city
+39,Hotels Display,JavaScript,React,Hotel Booking,Display list of hotels according to city
+40,Login,Python,Django ,Hotel Booking,Login using username and password with mobile number
+41,Login,Java,JSP,Library Management,Login using username and password with mobile number
+42,Books Display,JavaScript,React,Library Management,"Display list of books according to author,genre"
+43,Books Display,Java,JSP,Library Management,"Display list of books according to author,genre"
+44,Book Selector,Java,JSP,Library Management,Dropdown displaying author names and genre of all the books available
+45,No. of Person,Java,JSP,Railway Reservation,Display number of persons
+46,Login,Java,JSP,Railway Reservation,Login using username and password with captcha protection
+47,List Of Item,Python,Flask,E-commerce System,Dropdown Displaying list of items with brand name
+48,Book Selector,JavaScript,React,Library Management,Dropdown displaying author names and genre of all the books available
+49,Login,Java,JSP,Railway Reservation,Login using username and password 
+50,Train Selector,Java,JSP,Travel Agent Services,Dropdown displaying train class and quota
+51,Train Selector,JavaScript,React,Travel Agent Services,Dropdown displaying train class and quota
+52,Room Selector,Java,JSP,Hotel Booking,Dropdown displaying room type and number of persons
+53,Room Selector,JavaScript,React,Hotel Booking,Dropdown displaying room type and number of persons
+54,Train display,Java,JSP,Railway Reservation,Display list of trains availability according to class and date
+55,Sign in,Java,JSP,Travel Agent Services,Login using user name and password
+56,Calculate Button,JavaScript,React,Flight Booking,Calculate fare
+57,Add Book,JavaScript,React,Library Management,"Text Box for Book Name, Author and topic"
+58,Add Book,PHP,React,Library Management,"Text Box for Book Name, Author and year"
+59,Flight Selector,Java,JSP,Flight Booking,Dropdown displaying class and number of stops
+60,Flight Selector,JavaScript,React,Flight Booking,Dropdown displaying class and number of stops
+61,Flights Display,Java,JSP,Flight Booking,Display list of flights according to class and number of stops
+62,Flights Display,JavaScript,React,Flight Booking,Display list of flights according to class and number of stops
+63,Fare Calculator,JavaScript,JavaScript,Hotel Booking,"Fare calculation according to type of room , number of persons"
+64,Fare Calculator,JavaScript,JavaScript,Travel Agent Services,"Fare calculation according to distance, and number of person"
+65,Fare Calculator,JavaScript,JavaScript,Flight Booking,"Fare calculation according to distance ,class and number of stops selected"
+66,Logout Button,Java,JSP,Hotel Booking,Logout button
+67,Logout Button,JavaScript,React,E-commerce System,Logout button
+68,Login,Java,JSP,Hotel Booking,Login using username and password 
+69,Logout Button,Java,JSP,Library Management,Logout button
+70,Personal Information,PHP,JavaScript,Travel Agent Services,"Display personal information with name, phone no., password and email id"
+71,Login,JavaScript,React,Flight Booking,Login using username and password with captcha protection
+72,Sign in,JavaScript,React,Online Video on Demand,Login using username and password 
+73,Search Video,JavaScript,React,Online Video on Demand,Enter the Choice of User
+74,Train Display,Java,JSP,Railway Reservation,Display trains availability according to class and quota
+75,Hotels Display,PHP,React,Travel Agent Services,Display all the hotels name with contry
+76,Book Submission,Java,JSP,Railway Reservation,Display booking confirmation after payment
+77,Logout Button,JavaScript,React,Flight Booking,Logout button
+78,Vehicle Display,PHP,JavaScript,Travel Agent Services,Display All the vehicle with their charge
+79,Payment Display,PHP,JavaScript,Travel Agent Services,"Payment page displaying options like credit card, UPI and PayPAL account"
+80,Sign Out,Java,JSP,Travel Agent Services,Sign out the account
+81,List Of Video,Python,Django ,Online Video on Demand,Display all the video according to query of user
+82,Sign Out,JavaScript,React,Online Video on Demand,Sign out the account
+83,No. of Person,PHP,JavaScript,Travel Agent Services,Display number of persons
+84,Payment,JavaScript,React,Online Video on Demand,"Payment page displaying options like credit card, debit card and also using cash"
+85,Payment,Python,Django ,Online Video on Demand,"Payment page displaying options like credit card, debit card only"
+86,Payment Display,Java,JSP,Library Management,"Payment page displaying options like credit card, debit card and also using cash"
+87,Flight Display,PHP,React,Travel Agent Services,Disply all the flight details with amount
+88,Fare Calculator,Java,JSP,Railway Reservation,"Fare calculation according to distance, train class and number of persons"
+89,Play Video,Python,Django ,Online Video on Demand,Play the choose video
+90,Personal Information,Python,Flask,Online Video on Demand,"Display personal information with name, phone no., password and email id"

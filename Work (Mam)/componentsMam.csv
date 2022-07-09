@@ -1,0 +1,21 @@
+Component Index,Component Name,Language,Functionality
+1,Train Number,Java,Display unique id
+2,DOB,Java,Calculate age through calendar
+3,Calculator,Java,Calculate button
+6,Class,Java,Display different class 
+8,Book submission,Java,Display booking confirmation
+10,Fare Calculator,Java,Fare calculation according to distance and train class 
+11,Payment,Java,"Payment page displaying options like credit card, debit card and also using cash"
+12,Payment,Java,"Payment page displaying options like credit card, debit card, UPI"
+13,Payment,Java,Payment page displaying options like credit card and debit card only
+16,Date picker,Java,Display dates with dd/mm/yy format
+17,Date Picker,Java,Display calendar to pick dates
+22,City Name,Java,Dropdown displaying all cities name with state
+25,City Name,Java,Dropdown displaying all cities 
+45,No. of person,Java,Display number of persons
+46,Login,Java,Login using username and password with captcha protection
+49,Login,Java,Login using username and password 
+54,Train display,Java,display list of trains availability according to class and date
+74,Train display,Java,Display trains availability according to class and quota
+76,Book submission,Java,Display booking confirmation after payment
+88,Fare calculator,Java,"Fare calculation according to distance, train class and number of persons"

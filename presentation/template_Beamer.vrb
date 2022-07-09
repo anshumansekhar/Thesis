@@ -1,0 +1,12 @@
+\frametitle{Introduction}
+\begin{itemize}
+		From the last 10 years use of computer software has entered into every part of economy which has in turn generated new demand from the software industry to develop reliable and cost effective software quickly and efficiently.
+		Modern software systems are becoming more and more large scale which further increases the development cost , decreases the productivity and increases the cost of maintenance.
+		In the 90's a understanding was developed among software engineers that a software system need not be developed all the way from scratch and instead the software system can be developed by piecing together small pieces of software from previously developed software system and assembling them to make a final product.This idea was further developed into a field in software engineering named component based software engineering(CBSE).
+		
+		In the context of CBSE a component will be defined as A software component is a unit of composition
+		with contractually specified interfaces and explicit context
+		dependencies only. A software component can be deployed
+		independently and is subject to composition by third
+		parties.
+	\end{itemize}

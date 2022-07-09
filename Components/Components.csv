@@ -1,0 +1,58 @@
+id,File Name,Component Name,Language,Type,Domain,Functionality,Input,Output
+,AddBookUI.html,Add Book UI,html,,Library Management,"add a book using book name , author name and topic name",book table,updated book table
+,AddBookUI.jsp,Add Book UI,jsp,,Library Management,"add a book using book name , author name and topic name",book table ,updated book table
+,AddBookUI.py,Add Book UI,python,Flask,Library Management,"add a book using book name , author name and topic name",book table,updated book table
+,AddBookUI1.html,Add Book UI 1,html,,Library Management,"add a book using book name , author name and year",book table,updated book table
+,AddBookUI1.jsp,Add Book UI 1,jsp,,Library Management,"add a book using book name , author name and year",book table,updated book table
+,AddBookUI1.py,Add Book UI 1,python,Flask,Library Management,"add a book using book name , author name and year",book table,updated book table
+,age_calculator.js,Age Calculator,javascript,,,calculate age using dob,dob ,age
+,ageCalculator.py,Age Calculator,python,,,calculate age using dob with date format YYYY-MM-DD,dateofbirth,age
+,calculateButton.html,Calculate Button,html,,,calculate button,function,new page
+,CityComp.html,City Selector,html,,,dropdown with list of cities,,city name
+,CityNameWithState.html,City Name with State,html,,,dropdown with list of cities with state name,,city name with state name
+,CityNameWithState.jsp,City Name with State,jsp,,,dropdown with list of cities with state name,,city name with state name
+,DatePickerUI.html,Date Picker,html,,,display date picker,date name,
+,FareCalculatorHotel.js,Hotel Fare Calculator,javascript,,Hotel Management,calculate fare using number of days and room type,number of days and room type,fare
+,FareCalculatorHotel.py,Hotel Fare Calculator,python,,Hotel Management,calculate fare using number of days and room type,number of days and room type,fare
+,FareCalculatorTravel.js,Travel Fare Calculator,javascript,,Airline Management,calculate fare using distance and class type,distance and class type,fare
+,FareCalculatorTravel.py,Travel Fare Calculator,python,,Airline Management,calculate fare using distance and class type,distance and class type,fare
+,GSTCalculator.java,GST Calculator,java,,,calculate gst amount using percentage and price,percentage and price,fare
+,GSTCalculator.py,GST Calculator,python,,,calculate gst amount using percentage and price,percentage and price,fare
+,GSTCalculator.js,GST Calculator,javascript,,,calculate gst amount using percentage and price,percentage and price,fare
+,login.py,login,python,Flask,,login page using username and password,,user id
+,login.java,login,java,,,login page using username and password,,user id
+,loginCaptcha.py,login Captcha,python,Flask,,"login page using username , password and captcha",,user id
+,loginUICaptcha.jsp,login Captcha,jsp,,,"login page using username , password and captcha",,user id
+,youtubeVideoPlay.py,Youtube Video Player,python,Flask,Online Video,video player using youtube video id,video id,
+,youtubeVideoPlay.html,Youtube Video Player,html,,Online Video,video player using youtube video id,video id,
+,videoPlayURL.py,Video Player,python,Flask,Online Video,video player using video url,video url,
+,videoPlayURL.jsp,Video Player,jsp,,Online Video,video player using video url,video url,
+,ProfilePage.py,Profile Page,python,Flask,,"profile page containing name, email , address and phone number","name, email, address, phone number",
+,ProfilePage.jsp,Profile Page,jsp,,,"profile page containing name, email , address and phone number","name, email, address, phone number",
+,ProfilePage1.py,Profile Page 1,python,Flask,,"profile page containing profile pic, name, email , address and phone number","name, email, address, phone number, profile pic",
+,shippingCharge.py,Shipping Charge,python,,,"calculate the shipping charge using length, height , width and weight","length, width, height, weight",shipping charge
+,shippingCharge.js,Shipping Charge,javascript,,,"calculate the shipping charge using length, height , width and weight","length, width, height, weight",shipping charge
+,PaymentPageUI.py,Payment Page,python,Flask,,"payment page with options like credit card, debit card and cash on delivery",amount,status
+,PaymentPageUI1.py,Payment Page 1,python,Flask,,"payment page with options like credit card, debit card",amount,status
+,PaymentPageUI2.py,Payment Page 2,python,Flask,,"payment page with options like credit card, debit card and netbanking",amount,status
+,PaymentPageUI3.py,Payment Page 3,python,Flask,,"payment page with options like credit card, debit card and upi",amount,status
+,PaymentPageUI4.py,Payment Page 4,python,Flask,,"payment page with options like credit card, debit card, upi and emi",amount,status
+,RoomSelector.java,Room Selector,java,,Hotel Management,dropdown with room type and number of guests,,room type and number of guests
+,RoomSelector.jsp,Room Selector,jsp,,Hotel Management,dropdown with room type and number of guests,,room type and number of guests
+,RoomSelector.py,Room Selector,python,Flask,Hotel Management,dropdown with room type and number of guests,,room type and number of guests
+,searchBox.py,Search Box,python,Flask,,a search box with submit button,search api,
+,searchBox.jsp,Search Box,jsp,,,a search box with submit button,search api,
+,searchBox.java,Search Box,java,,,a search box with submit button,search api,
+,FlightDisplay.py,Flight Display,python,Flask,Airline Management,"page displaying airline details like airline name , code, departure, arrival, number of stops, duration and price based on arrival city , departure city and date",airline list,amount
+,FlightDisplayUI.jsp,Flight Display,jsp,,Airline Management,"page displaying airline details like airline name , code, departure, arrival, number of stops, duration and price based on arrival city , departure city and date",airline list,amount
+,ListofAuthorandGenere.py,List Author and Genre,python,Flask,Library Management,dropdown with list of authors and list of genres,author lists and genre lists,author name and genre
+,listofauthorsandgeners.jsp,List Author and Genre,jsp,,Library Management,dropdown with list of authors and list of genres,author lists and genre lists,author name and genre
+,DatePicker.py,Date Picker,python,Flask,,date picker UI to enter DOB in YYYY-MM-DD format,,dateofbirth
+,AgeDisplay.py,Age Display,python,Flask,,display of age calculated,age,age
+,AgeCalculator.java,Age Calculator,java,,,calculate age using year of birth and display the age in years,,
+,Register.py,Register,python,Flask,,register page with username and password,,register
+,Register1.py,Register,python,Flask,,"register page with username, email and password",,register
+,Register2.py,Register,python,Flask,,"register page with username, email, password and confirm password",,register
+,succesfulDialog.java,Success Dialog,Java,Swing,,dialog box displaying success message,message,
+,checkBook.java,Book Check,Java,,,check if book is there in the table,,
+,AuthorNameAndGenre.java,,,,,,,

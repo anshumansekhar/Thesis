@@ -1,0 +1,84 @@
+PayPal offers online payment solutions and has more than 153 million customers worldwide. The PayPal API makes powerful functionality available to developers by exposing various features of the PayPal platform. Functionality includes but is not limited to invoice management, transaction processing and account management.
+
+BREAKS HERE
+
+The Commission Junction GraphQL API enables advertisers and publishers to access commission data from their accounts. The API is useful for partners in need of data that is updated on a regular basis. The API returns posting date ranges, advertisement IDs, action statuses, and more. Commission Junction is an affiliate marketing network, specializing in pay-for-performance programs.
+
+
+BREAKS HERE
+
+The Shopzilla, Inc. Catalog API provides access to the Shopzilla, Inc. inventory of catalogued products, merchant offers, and merchant ratings & reviews content through a query-based RESTful web service, responses formatted in XML or JSON|P. Managed through the Shopzilla Publisher Program, a CPC affiliate marketing program, publishers are able to monetize using this API. Users of this API are able to choose between two versions, each providing logic native to its corresponding Shopzilla, Inc. property: Bizrate.com or Beso.com. Bizrate API: Provides access to the entire Shopzilla, Inc. offer universe, exposing content from 8,000+ merchants. You would use this version to create a full comparison shopping site. Beso API: Provides the opportunity to create a style-based experience with a curated set of offers focused in soft goods categories. You would use this version to create a fashion-oriented shopping site. Both APIs provide access to the merchant ratings and reviews collected through the Bizrate Insights platform. International? APIs also available for the United Kingdom, Germany, and France.
+
+
+BREAKS HERE
+
+The CityGrid network APIs give developers access to premium local content including user reviews, editorial content, merchant messages & more, across 75K neighborhoods nationwide. CityGrid Media is an online media company that connects web and mobile publishers with local advertising organizations by linking them through CityGrid, its local content and advertising network. Currently CityGrid offers the following APIs: Places API - Provides functionality for information on local businesses, including search, detail, user content submission, and predictive text. Offers API - Provides coupons and special offers from businesses based on geographical location and category Reviews API - Displays customer reviews based on listing IDs for certain geographic/category attributes All APIs have been instrumented with impression tracking feeding our new beta reporting dashboard.
+
+
+BREAKS HERE
+
+
+Google Accounts authentication for web-based applications allows the application to access a Google service protected by a user's Google account. To maintain a high level of security, the Authentication Proxy interface, AuthSub, enables the application to get an authentication token without ever handling the user's account login information. Using the proxy, the user of the web application logs into their account through a Google-supplied login page and consents to grant limited access to the web application
+
+
+BREAKS HERE
+
+
+The OneLogin API allows developers to interact with the OneLogin service. OneLogin provides an easy-to-use single sign-on solution for businesses that embrace cloud computing. OneLogin eliminates the need for employees to remember strong passwords and saves them time because they can log into applications with a single click. OneLogin's API supports five basic operations for each entity: read, list, create, update and delete. It uses RESTful protocol and responses are formatted in XML.
+
+
+BREAKS HERE
+
+
+The Stripe API allows developers to access the functionality of Stripe. Some example API methods include sending invoices, accepting payments, managing subscription billing, and editing and managing account information. Stripe is a service that allows users to accept payments online, specifically developers. With the Stripe application, users can keep track of payments, search past payments, create recurring charges, and keep track of customers.
+
+
+BREAKS HERE
+
+
+The Recurly API provides a recurring subscription billing system for online businesses. It is available in REST architecture with XML and JSON formats, public key, basic auth, and token as authentication methods secured in SSL, and HTTP status codes. With the API, developers can integrate recurring billing features including adjustments, invoices, plans, and subscriptions.
+
+
+BREAKS HERE
+
+The Recurly API provides a recurring subscription billing system for online businesses. It is available in REST architecture with XML and JSON formats, public key, basic auth, and token as authentication methods secured in SSL, and HTTP status codes. With the API, developers can integrate recurring billing features including adjustments, invoices, plans, and subscriptions.
+
+
+BREAKS HERE
+
+
+The Envoice API allows developers to automate the invoicing process. It can be used to perform basic CRUD operations on invoices, as well as change or check an invoice's status. Envoice allows users to accept payments from Paypal, Stripe, Payoneer, Square, and Klik & Pay and can also handle debit and credit cards.
+
+
+BREAKS HERE
+
+ready2order is an Austria-based providers of accounting and ecommerce software solutions. The ready2order API allows developers to build billing system applications that are tailored for use by small and medium-sized enterprises. Developers can use the API to integrate custom template designs, document archiving, and recurring billing functionalities in accounting apps.
+
+
+BREAKS HERE
+
+
+The WhatsApp Business API provides a way for businesses to interact with and reach customers all over the world. It powers communication with customers to connect with them on WhatsApp using end-to-end encryption. This enables messages and calls with security that allows only you and the person you're communicating with to read or listen. This API uses a REST API architecture with JSON data formats that follows standard HTTP request and response. WhatsApp Messenger is an SMS replacement application.
+
+
+BREAKS HERE
+
+
+HipChat is an instant messaging service designed for companies and teams. The platform allows internal communication with chat rooms and file sharing. HipChat is private and secure with a self-building buddy list.
+
+
+BREAKS HERE
+
+The Slack Conversations API reviews messaging history, creates DM channels, archives channels, invites team members, and sets a conversation purpose. The Slack Conversations API provides your app with a unified interface to work with all the channels in Slack, including public & private channels, direct messages, group direct messages, and Shared Channels.
+
+
+BREAKS HERE
+
+
+Grove is a hosted IRC chat service for teams that goes beyond basic IRC servers. It offers archived and searchable chat logs, channel management and access control, private messaging, and web client services. It also supports the major IRC clients and bots. Grove offers three API services: Simple POST for posting basic service messages to channels, HTTP API for building applications on top of Grove and pulling a variety of usage data, and Live API for requesting real-time updates via long polling.
+
+
+BREAKS HERE
+
+
+

@@ -1,0 +1,8 @@
+username=anshumansekhar
+password=12345
+loginCheck=true
+authorName=Fiction
+genre=Fiction
+dateofbirth=2022-06-15
+age=45
+dateofbirth=2016-04-07

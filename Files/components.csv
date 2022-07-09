@@ -1,0 +1,41 @@
+id,Component Name,Language,Type,Domain,Visibility,Functionality
+1,Login,Java,JSP,Educational,UI,Login using username and password
+2,Login,Java,JSP,Reservation,UI,Login using username and password with captcha protection
+3,Date Picker,Java,JSP,Booking,UI,calendar to pick dates
+4,Calendar,JavaScript,React,Booking,UI,calendar to pick dates
+5,City Dropdown,Java,JSP,Hotel Booking,UI,dropdown displaying all cities 
+6,City Dropdown,JavaScript,React,Hotel Booking,UI,dropdown displaying all cities 
+7,Logout Button,Java,JSP,Educational,UI,logout button
+8,Logout Button,JavaScript,React,Educational,UI,logout button
+9,Tax Calculator,Java,Java,Finance,Function,tax calculation
+10,Tax Calculator,JavaScript,JavaScript,Finance,Function,tax calculation
+11,Fare Calculator,Java,Java,Train Booking,Function,"fare calculation according to distance , train class and quota selected"
+12,Fare Calculator,Java,Java,Hotel Booking,Function,"fare calculation according to type of room , number of persons"
+13,Fare Calculator,Java,Java,Flight Booking,Function,"fare calculation according to distance ,class and number of stops selected"
+14,Payment,Java,JSP,Payment,UI,"payment page displaying options like credit card,debit card,upi"
+15,Payment,JavaScript,React,Payment,UI,"payment page displaying options like credit card,debit card,upi"
+16,Payment Handler,Java,Java,Payment,Function,handle payment from user 
+17,Payment Handler,JavaScript,JavaScript,Payment,Function,handle payment from user 
+18,Train Display,Java,JSP,Train Booking,UI,display list of trains according to origin and destination city
+19,Hotels Display,Java,JSP,Hotel Booking,UI,display list of hotels according to city
+20,Train Display,JavaScript,React,Train Booking,UI,display list of trains according to origin and destination city
+21,Hotels Display,JavaScript,React,Hotel Booking,UI,display list of hotels according to city
+22,Books Display,JavaScript,React,Library Management,UI,"display list of books according to author,genre"
+23,Books Display,Java,JSP,Library Management,UI,"display list of books according to author,genre"
+24,Book Selector,Java,JSP,Library Management,UI,dropdown displaying author names and genre of all the books available
+25,Book Selector,JavaScript,React,Library Management,UI,dropdown displaying author names and genre of all the books available
+26,Train Selector,Java,JSP,Train Booking,UI,dropdown displaying train class and quota
+27,Train Selector,JavaScript,React,Train Booking,UI,dropdown displaying train class and quota
+28,Room Selector,Java,JSP,Hotel Booking,UI,dropdown displaying room type and number of persons
+29,Room Selector,JavaScript,React,Hotel Booking,UI,dropdown displaying room type and number of persons
+30,Calculate Button,Java,JSP,Booking,UI,Calculate Button
+31,Calculate Button,JavaScript,React,Booking,UI,Calculate Button
+32,Add Book,JavaScript,React,Library Management,UI,"Text Box for Book Name,Author and genre"
+33,Add Book,Java,JSP,Library Management,UI,"Text Box for Book Name,Author and genre"
+34,Flight Selector,Java,JSP,Flight Booking,UI,dropdown displaying class and number of stops
+35,Flight Selector,JavaScript,React,Flight Booking,UI,dropdown displaying class and number of stops
+36,Flights Display,Java,JSP,Flight Booking,UI,display list of flights according to class and number of stops
+37,Flights Display,JavaScript,React,Flight Booking,UI,display list of flights according to class and number of stops
+38,Fare Calculator,JavaScript,JavaScript,Hotel Booking,Function,"fare calculation according to type of room , number of persons"
+39,Fare Calculator,JavaScript,JavaScript,Train Booking,Function,"fare calculation according to distance , train class and quota selected"
+40,Fare Calculator,JavaScript,JavaScript,Flight Booking,Function,"fare calculation according to distance ,class and number of stops selected"

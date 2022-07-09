@@ -1,0 +1,52 @@
+ComponentName,Language,Functionality,preCondition,postCondition
+AddBookUI,React,"add book ui using author name, book name and year",,
+AuthorAndGenre,React,author name dropdown and genre dropdown,,
+BerthAvailabilty,React,"check for available berths using the values like train number ,DOJ, from and to city",,
+BookDetails,React,"display selected book with details like book name, author name ,year and renting cost with gst calculate button ",,
+CalculateAgeScreen,React,Calculate age using date picker and date of birth,loggedIn,age
+CalculateAgeUI,Swing,age calculate,,
+CityNameWithState,React,city name dropdown with state,,
+ClassTypeAndQuota,React,class type dropdown and quota type dropdown,,
+DisplayAgeOutput,React,Display the age ,age,
+FlightBookingConfirmed,React,"Flight booking confirmed page with details like airline name , date of journey, from city , to city ",,
+FlightDisplayUI,React,"display the searched list of flights and select a flight with details like airline code, airline name, departure, arrival , number of stops , duration and price",,
+FromCityToCity,React,From city dropdown and to city dropdown select,,
+FromCityToCityDOJ,React,From city dropdown and to city dropdown and date of journey select,,
+GetFlights,React,"get flights button to search for flights using from city name , to city name and date of journey",,
+GetTrains,React,"get train button to search for trains using from city name , to city name ,date of journey and class type",,
+GSTCalculator,React,gst calculate on amount or fare,amount,amount
+HotelBookingConfirmed,React,"hotel booking confirmed page with details like username, date , hotel name ,number of guests, number of days and total amount",,
+LoginCaptchaScreen,React,"Login using username , password and captcha",,loggedIn
+LoginErrorPage,React,login failed error page,,
+LoginScreen,React,Login using username and password,,loggedIn
+LoginScreen1,React,"login using username ,password and register option",,"userRegistered,loggedIn"
+Logout,React,logout button,paymentStatus,loggedIn
+NumberOfItems,React,number of items dropdown,selectedProduct,numberOfItems
+PassengerDetailsUI,React,"add details of passenger with input of name , age , gender  , phone number ",,
+PaymentFailed,React,payment failed page for the given amount,,
+PaymentPageUI,React,"payment page with options like credit card, debit card and cash",,
+PaymentPageUI1,React,"payment page with options like credit card, debit card, netbanking, upi and cash",amount,paymentStatus
+ProductCategory,React,product category dropdown,loggedIn,productCategorySelected
+ProductFareCalculator,React,"fare calculator using discount, number of items and product price","amount,numberOfItems",amount
+ProductList,React,display list of product search results with select a product,"loggedIn,productSeachedList","amount,selectedProduct"
+ProfilePage,React,"profile page with details like name,username,email,address and phone number",,
+Register,React,"registration page with details like email , password and confirm password",,userRegistered
+Register1,React,"registration page with details like name,email,username,password and confirm password",,userRegistered
+Register2,React,"registration page with details like name, username,email,address,phone number,password and confirm password",,
+RoomSelector,React,room type and number of guests dropdown ,,
+SearchBook,React,search box for entering book name,,
+SearchProduct,React,searching products using product name and product category,"loggedIn,productSearchTerm,productCategorySelected",productSearchedList
+SearchProductUI,React,search box for entering product name to search,loggedIn,productSearchTerm
+ThankYouPage,React,thank you page for the username,,
+TrainBookingConfirmed,React,"Train booking confirmed page with details like passenger name , date of journey, train name,travel duration and fare",,
+TrainDisplayUI,React,"display list of trains with details like train number, train name, duration and fare and select train ",,
+VerificationEmailPage,React,verification email sent page,,
+VideoList,React,"youtube video display with video title, views and channel name with watch button",loggedIn,videoId
+YoutubeVideoPlay,React,youtube video player with video id ,"loggedIn,videoId",
+DateOfJourney,React,date of journey input,,
+FlightClassType,React,select flight class type from dropdown,,
+HotelSearch,React,search for hotels using city and state name,,
+HotelListUI,React,list of hotels with hotel select from list,,
+FromDateToDate,React,from date and to date input,,
+HotelRentCalculator,React,"calculate rent of hotel room using number of days ,room type , number of guests and room rent per night",,
+BookingConfirmation,React,confirmation page display,,
